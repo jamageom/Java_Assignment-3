@@ -1,0 +1,3 @@
+interface FuelEfficient{
+    double calculateMilage();
+}
